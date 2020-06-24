@@ -25,3 +25,14 @@ Country Table
     "prefix": "93",
     "status": 1
 }
+
+
+Package Table -- user package details
+------------------
+{
+    "_id": "unlimited",
+    "package": "Unlimited",
+    "day_limit": 4
+    "photo_limit": 5
+    "user_limit": 6
+}
