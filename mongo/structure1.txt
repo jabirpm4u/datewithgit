@@ -36,3 +36,15 @@ Package Table -- user package details
     "photo_limit": 5
     "user_limit": 6
 }
+
+
+App_version Table --  version history
+------------------
+{
+    "_id": "1.0.99",
+    "android": "https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.picmeappexpo.fotome",
+    "expo_update": 1,
+    "expo_version": "1.0.99",
+    "ios": "https%3A%2F%2Fapps.apple.com%2Fin%2Fapp%2Ffotome-events%2Fid1479187741",
+    "timestamp": "1581664199"
+}
