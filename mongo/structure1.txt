@@ -14,3 +14,14 @@ Face table -- Face Detect coordinate table
 	},
     "timestamp": 1580752433
 }
+
+
+Country Table 
+------------------
+{
+     "code": "AF", // code
+    "country": "Afghanistan",
+    "digits": 9,
+    "prefix": "93",
+    "status": 1
+}
