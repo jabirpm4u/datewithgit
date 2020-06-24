@@ -48,3 +48,21 @@ App_version Table --  version history
     "ios": "https%3A%2F%2Fapps.apple.com%2Fin%2Fapp%2Ffotome-events%2Fid1479187741",
     "timestamp": "1581664199"
 }
+
+
+inquiry Table  --  premium request
+------------------
+{
+    "_id": "1581923657ghdnjiymtecp00", // inquiry_id
+    "type": "premium",
+    "user": {
+        "_id": "1581923658km09d8i4s20ueh",
+        "username": "919746704784",
+        "name": "jabir"
+    },
+    "event": {
+        "_id": "SUN2",
+    }
+    "message": "Hi, need to make this event premium",
+    "timestamp": 1580752433
+}
