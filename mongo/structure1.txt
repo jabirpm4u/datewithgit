@@ -1,0 +1,16 @@
+Face table -- Face Detect coordinate table 
+--------------------------------------
+{
+    "_id": ObjectId("5e29ededf0700000f0001f15"),  //face_id
+	"srcpic": "img539.jpg",
+    "face":	{
+	    "pic": "img540.jpg",
+	    "x1": 10,
+	    "y1": 60,
+	    "x2": 200,
+	    "y2": 300,
+	    "face_width": 190,
+	    "face_height": 240
+	},
+    "timestamp": 1580752433
+}
