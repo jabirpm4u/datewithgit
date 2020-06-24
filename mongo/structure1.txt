@@ -66,3 +66,14 @@ inquiry Table  --  premium request
     "message": "Hi, need to make this event premium",
     "timestamp": 1580752433
 }
+
+Permission Table - Dashboard user Permission
+------------------
+{
+    "_id": 1581923657ghdnjiymtec770", // operation_id
+    "code": "CREATE_EVENT_BASIC",
+    "name": "CREATE EVENT - BASIC",
+    "window": "CREATE_EVENT",
+    "user_type": ['guest' ,'admin','admin' ]
+    "timestamp": 1580752488
+}
